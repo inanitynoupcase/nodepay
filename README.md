@@ -32,10 +32,17 @@ For example, typically, you would need to open a browser to earn points from Nod
 1. Login to your dashboard [here](https://app.nodepay.ai/dashboard)
 2. Open **Developer Tool** (aka F12 or Inspect) and switch to tab Network
 3. Look for **session** on your left and **Headers** on the right side. Scroll down until you find **Authorization**. Copy everything except for **Bearer** or you can use this code on **Console**:
-```console.log(localStorage.getItem('np_token'));```
-4. Fill in your **token.txt** with the data you copied in the previous step.
-5. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (no matter Datacenter proxy or Residential proxy. I recommend HTTP proxy)
-6. Runing **nodepay.exe** and enjoy !
+```
+console.log(localStorage.getItem('np_token'));
+```
+5. Fill in your **token.txt** with the data you copied in the previous step.
+6. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (no matter Datacenter proxy or Residential proxy. I recommend HTTP proxy)
+7. Runing **nodepay.exe** and enjoy !
 ## Note: <a name="paragraph5"></a>
 This is a **TRIAL** version, for full version you can contact via Telegram: 
-```https://t.me/inanitynoupcase``` or ```https://t.me/Vpooopooo```
+```
+https://t.me/inanitynoupcase
+``` or
+```
+https://t.me/Vpooopooo
+```
