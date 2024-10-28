@@ -10,7 +10,7 @@
 
 **Nodepay** is **the infrastructure that provides decentralized bandwidth for AI training**. By connecting to the Nodepay Network, you can sell your unused internet to AI companies and provide them access to real time data crawling and information from the public web.
 
-## How does Nodepay work?? <a name="paragraph1"></a>
+## How does Nodepay work ? <a name="paragraph1"></a>
 **Nodepay** transforms your internet connection into a source of passive income by leveraging your unused bandwidth. It’s a simple concept: most of us have internet bandwidth that we never fully use. Nodepay enables you to sell that surplus to businesses and institutions across multiple sectors, including AI research, financial services, healthcare, and more.
 
 
