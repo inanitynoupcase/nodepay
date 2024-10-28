@@ -40,9 +40,5 @@ console.log(localStorage.getItem('np_token'));
 7. Runing **nodepay.exe** and enjoy !
 ## Note: <a name="paragraph5"></a>
 This is a **TRIAL** version, for full version you can contact via Telegram: 
-```
 https://t.me/inanitynoupcase
-``` or
-```
 https://t.me/Vpooopooo
-```
