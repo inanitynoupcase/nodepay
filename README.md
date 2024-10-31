@@ -36,7 +36,7 @@ For example, typically, you would need to open a browser to earn points from Nod
 console.log(localStorage.getItem('np_token'));
 ```
 5. Fill in your **token.txt** with the data you copied in the previous step.
-6. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (no matter Datacenter proxy or Residential proxy. I recommend HTTP proxy)
+6. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (no matter Datacenter proxy or Residential proxy. I recommend HTTP proxy. Please check live proxy first before fill in)
 7. Runing **nodepay.exe** and enjoy !
 ## Note: <a name="paragraph5"></a>
 This is a **TRIAL** version, for full version you can contact via Telegram: 
