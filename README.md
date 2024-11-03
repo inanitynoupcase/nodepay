@@ -39,6 +39,7 @@ console.log(localStorage.getItem('np_token'));
 6. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (no matter Datacenter proxy or Residential proxy. I recommend HTTP proxy. Please check live proxy first before fill in)
 7. Runing **nodepay.exe** and enjoy !
 ## Note: <a name="paragraph5"></a>
+Nodepay now is limit **10 Proxy** per account so you cant run more than 10 even if you use extension
 This is a **TRIAL** version, for full version you can contact via Telegram: 
 https://t.me/inanitynoupcase
 or 
