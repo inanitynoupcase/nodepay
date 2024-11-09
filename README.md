@@ -42,7 +42,7 @@ I recommend using HTTP proxies. Make sure to check that the proxies are live bef
 ## Note: <a name="paragraph5"></a>
 Nodepay now is limit **10 Proxy** per account so you cant run more than 10 even if you use extension
 
-This is a **TRIAL** version, for full version you can contact via Telegram: 
+This is a **TRIAL** version, trial user have 24 hour. For full version you can contact via Telegram: 
 https://t.me/inanitynoupcase
 or 
 https://t.me/Vpooopooo
