@@ -36,7 +36,8 @@ For example, typically, you would need to open a browser to earn points from Nod
 console.log(localStorage.getItem('np_token'));
 ```
 5. Fill in your **token.txt** with the data you copied in the previous step.
-6. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. (no matter Datacenter proxy or Residential proxy. I recommend HTTP proxy. Please check live proxy first before fill in)
+6. Fill in **proxy.txt** using the format: `protocol://user:pass@ip:port`. 
+I recommend using HTTP proxies. Make sure to check that the proxies are live before filling them in. Use residential proxies for a higher chance of not being blocked by Cloudflare (403).
 7. Runing **nodepay.exe** and enjoy !
 ## Note: <a name="paragraph5"></a>
 Nodepay now is limit **10 Proxy** per account so you cant run more than 10 even if you use extension
