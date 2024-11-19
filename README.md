@@ -5,7 +5,7 @@
 4. [What is Nodepay Farming Tool?](#paragraph3)
 5. [How to using Nodepay Farming Tool?](#paragraph4)
 6. [Note](#paragraph5)
-## What news in Nodepay Version 1.3 ? ##
+## What news in Nodepay Farming Tool Version 1.3 ? ##
 No more trials; you can use it forever.
 
 Automatically create a new session if session creation fails.
