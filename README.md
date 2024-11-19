@@ -5,7 +5,12 @@
 4. [What is Nodepay Farming Tool?](#paragraph3)
 5. [How to using Nodepay Farming Tool?](#paragraph4)
 6. [Note](#paragraph5)
+## What news in Nodepay Version 1.3 ? ##
+No more trial, you can use forever.
 
+Alot of ping server for you, dont need to worry about "403".
+
+Run up to 1 account per time. 
 ## What is Nodepay ?<a name="introduction"></a>
 
 **Nodepay** is **the infrastructure that provides decentralized bandwidth for AI training**. By connecting to the Nodepay Network, you can sell your unused internet to AI companies and provide them access to real time data crawling and information from the public web.
@@ -42,7 +47,7 @@ I recommend using HTTP proxies. Make sure to check that the proxies are live bef
 ## Note: <a name="paragraph5"></a>
 Nodepay now is limit **10 Proxy** per account so you cant run more than 10 even if you use extension
 
-This is a **TRIAL** version, trial user have 24 hour. For full version you can contact via Telegram: 
+This is a **FREE** version, you can using 1 account per time. For full version you can contact via Telegram: 
 https://t.me/inanitynoupcase
 or 
 https://t.me/Vpooopooo
