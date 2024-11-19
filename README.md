@@ -6,11 +6,16 @@
 5. [How to using Nodepay Farming Tool?](#paragraph4)
 6. [Note](#paragraph5)
 ## What news in Nodepay Version 1.3 ? ##
-No more trial, you can use forever.
+No more trials; you can use it forever.
 
-Alot of ping server for you, dont need to worry about "403".
+Automatically create a new session if session creation fails.
 
-Run up to 1 account per time. 
+Automatically send tasks after a certain amount of time.
+
+Alot of ping server for you, so you don’t have to worry about "403" error.
+
+Run only 1 account at a time.
+
 ## What is Nodepay ?<a name="introduction"></a>
 
 **Nodepay** is **the infrastructure that provides decentralized bandwidth for AI training**. By connecting to the Nodepay Network, you can sell your unused internet to AI companies and provide them access to real time data crawling and information from the public web.
